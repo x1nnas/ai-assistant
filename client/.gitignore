@@ -11,6 +11,14 @@ node_modules
 dist
 dist-ssr
 *.local
+*.tsbuildinfo
+src/**/*.js
+src/**/*.js.map
+src/**/*.d.ts
+src/**/*.d.ts.map
+vite.config.js
+vite.config.js.map
+vite.config.d.ts
 
 # Editor directories and files
 .vscode/*
